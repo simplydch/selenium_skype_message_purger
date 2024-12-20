@@ -95,12 +95,6 @@ def click_context(label1, label2):
     time.sleep(1)
     return True
 
-
-
-
-
-
-
 # Uncomment if you want to start from scratch everytime
 #fixed = []
 
@@ -221,6 +215,3 @@ if save_pickle == "y":
 
 print("\nProgram Finished\n")
 input("Press return to exit\n")
-
-
-
